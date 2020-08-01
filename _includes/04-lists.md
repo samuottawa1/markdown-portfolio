@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+here are things i :heart:
+
+1. boxing
+2. cooking
+3. movies
