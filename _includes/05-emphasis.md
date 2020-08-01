@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**hello world**
+
+_My name is sam_
+
+_hello world, my name is **sam**_
